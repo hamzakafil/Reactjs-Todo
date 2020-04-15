@@ -1,0 +1,39 @@
+.list{
+    width: 330px;
+    height: 50px;
+    background-color: #cc99ff;
+    margin: 5px auto;
+    border-radius: 5px;
+}
+
+.list p {
+    padding: 15px;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+    position: relative;
+    
+}
+.list p span
+{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.favicon{
+   margin: 0 5px;
+   font-size: 15px;
+}
+
+.list p input{
+  background-color: transparent;
+  border: none;
+  color: white;
+  height: auto;
+  width: auto;
+  padding: 0px 8px;
+  margin: 0px auto;
+  font-size: 16px;
+ 
+}
